@@ -1,0 +1,68 @@
+.card {
+  width: 100%;
+  margin-bottom: 73px;
+}
+
+.column {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.photoWrapper {
+  position: relative;
+}
+
+.photo {
+  width: 100%;
+}
+
+.photoLabelWrapper {
+  width: 24px;
+  min-height: 86px;
+  background-color: #F5F5F5;
+  position: absolute;
+  top: 0;
+}
+
+.photoLabel {
+  font-size: 12px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background-color: #F5F5F5; 
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  text-align: right;
+  width: 24px;
+  display: flex;
+  align-items: flex-end;
+  color: #131313;
+  padding-top: 20px;
+}
+
+.title {
+  font-weight: bold;
+  color: #1A1A1A;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;;
+}
+
+.line {
+  background-color: #3852F7;
+  width: 32px;
+  height: 3px;
+  margin-right: 24px;
+  margin-top: 2px;
+}
+
+.view {
+  color: #3852F7;
+  font-weight: bold;
+  font-size: 14px;
+}

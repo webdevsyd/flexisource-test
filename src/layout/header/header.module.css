@@ -1,0 +1,24 @@
+.container {
+  padding: 0;
+  margin-bottom: 63px;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu > li > a {
+  text-decoration: none;
+  color: #000;
+  display: block;
+  margin-left: 36px;
+}

@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/flexisource-test/static/css/main.7705259c.chunk.css",
+    "main.js": "/flexisource-test/static/js/main.1043423d.chunk.js",
+    "main.js.map": "/flexisource-test/static/js/main.1043423d.chunk.js.map",
+    "runtime-main.js": "/flexisource-test/static/js/runtime-main.d293d159.js",
+    "runtime-main.js.map": "/flexisource-test/static/js/runtime-main.d293d159.js.map",
+    "static/css/2.22d6b5ec.chunk.css": "/flexisource-test/static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.c8dfeee2.chunk.js": "/flexisource-test/static/js/2.c8dfeee2.chunk.js",
+    "static/js/2.c8dfeee2.chunk.js.map": "/flexisource-test/static/js/2.c8dfeee2.chunk.js.map",
+    "index.html": "/flexisource-test/index.html",
+    "precache-manifest.48eb416911f49a831617f201f1a5095f.js": "/flexisource-test/precache-manifest.48eb416911f49a831617f201f1a5095f.js",
+    "service-worker.js": "/flexisource-test/service-worker.js",
+    "static/css/2.22d6b5ec.chunk.css.map": "/flexisource-test/static/css/2.22d6b5ec.chunk.css.map",
+    "static/css/main.7705259c.chunk.css.map": "/flexisource-test/static/css/main.7705259c.chunk.css.map",
+    "static/js/2.c8dfeee2.chunk.js.LICENSE.txt": "/flexisource-test/static/js/2.c8dfeee2.chunk.js.LICENSE.txt",
+    "static/media/1001.jpg": "/flexisource-test/static/media/1001.1539fa57.jpg",
+    "static/media/1001_thumb.jpg": "/flexisource-test/static/media/1001_thumb.1534c150.jpg",
+    "static/media/1002.jpg": "/flexisource-test/static/media/1002.c7487b14.jpg",
+    "static/media/1002_thumb.jpg": "/flexisource-test/static/media/1002_thumb.65ce0840.jpg",
+    "static/media/1003.jpg": "/flexisource-test/static/media/1003.40c062a0.jpg",
+    "static/media/1003_thumb.jpg": "/flexisource-test/static/media/1003_thumb.ead585af.jpg",
+    "static/media/1004.jpg": "/flexisource-test/static/media/1004.806eda6e.jpg",
+    "static/media/1004_thumb.jpg": "/flexisource-test/static/media/1004_thumb.2f12a978.jpg",
+    "static/media/adrenalin.svg": "/flexisource-test/static/media/adrenalin.40ae90b4.svg",
+    "static/media/logo.svg": "/flexisource-test/static/media/logo.e6d8198f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d293d159.js",
+    "static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.c8dfeee2.chunk.js",
+    "static/css/main.7705259c.chunk.css",
+    "static/js/main.1043423d.chunk.js"
+  ]
+}

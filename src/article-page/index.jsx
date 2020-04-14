@@ -19,7 +19,7 @@ const ArticlePage = ({ match }) => {
         </Col>
         <Col xs={12} sm={12} md={5} lg={5}>
           <div className={classes.content}>
-            <h1 className={classes.title}>{article.title_long}</h1>
+            <h1 className={classes.title}>{article.title}</h1>
             {article.questions.map((question, index) => (
               <Question question={question} counter={index} key={question} />
             ))}
